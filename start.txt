@@ -1,1 +1,3 @@
 Hello Aashik!
+Git is amazing
+Next Line Added
